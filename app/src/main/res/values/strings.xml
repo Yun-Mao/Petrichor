@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Petrichor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">搜索书名、标签、类别或isbn号</string>
+    <string name="poor_network">网络连接失败，请检查网络</string>
+    <string name="more_brief">更多评论</string>
+    <string name="no_brief">暂无简介。</string>
+    <string name="comment_num">人点评</string>
+    <string name="comment">评论</string>
+    <string name="guess_you_like">猜你喜欢</string>
+    <string name="your_friend">你的好友</string>
+    <string name="share_book_1">给你分享了一本书《</string>
+    <string name="share_book_2">》,吼吼！</string>
+    <string name="share_dialog_title">分享</string>
+    <string name="action_share">分享</string>
+    <string name="action_sort">排序</string>
+    <string name="comment_of_book">--评论</string>
+    <string name="press_twice_exit">再次按返回键退出</string>
+    <string name="exit_directly">直接退出</string>
+    <string name="bookshelf_name">书的名称</string>
+    <string name="notes_name">书的标题</string>
+    <string name="remark">ISBN码</string>
+    <string name="add_bookshelf">添加书架</string>
+    <string name="edit_bookshelf">修改书架</string>
+    <string name="bookshelf_name_is_empty">书架名称不能为空</string>
+    <string name="add_notes">添加书摘</string>
+    <string name="edit_notes">修改书摘</string>
+    <string name="notes_name_is_empty">书名称不能为空</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="repeal">撤销</string>
+    <string name="delete_bookshelf_success">删除书架成功</string>
+    <string name="delete_notes_success">删除书摘成功</string>
+    <string name="no_more">没有更多了</string>
+    <string name="keyword_is_empty">搜索关键字不能为空</string>
+    <string name="rich_scan">扫一扫</string>
+    <string name="open_flashlight">开灯</string>
+    <string name="capture_hint">将书本背面的条形码放入框内，\n即可自动扫描</string>
+    <string name="action_open_in_browser">在浏览器中打开</string>
+    <string name="you_may_search">大家都在搜</string>
+    <string name="notes_paper">片段</string>
+    <string name="notes_note">书摘</string>
+    <string name="notes_page">页码</string>
+    <string name="setting">设置</string>
+    <string name="start">开始记录</string>
+    <string name="aboutTitle">TXT Reader</string>
+    <string name="aboutInfo">Java.io.inputStreamReader(InputStream stream,String enc) 的简单应用</string>
+    <string name="aboutOK">QUIT</string>
+    <string name="code_utf8">UTF-8</string>
+    <string name="code_gb2312">GB2312</string>
+    <string name="about">About</string>
+    <string name="watch">查看</string>
+</resources>

@@ -1,0 +1,375 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:1-203:13
+	package
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:2:5-46
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+		INJECTED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml
+instrumentation
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:10:5-13:67
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:12:9-66
+	android:targetPackage
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:13:9-64
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:11:9-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:19:22-78
+application
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:21:5-202:20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:25:9-84
+meta-data#com.baidu.speech.APP_ID
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:43:9-45:41
+	android:value
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:45:14-38
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:44:14-52
+meta-data#com.baidu.speech.API_KEY
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:46:10-48:57
+	android:value
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:48:14-54
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:47:14-53
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:49:10-51:65
+	android:value
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:51:14-62
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:50:14-56
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:53:10-55:41
+	android:exported
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:55:14-38
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:54:14-69
+activity#com.baidu.android.voicedemo.activity.ActivityMain
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:57:10-66:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:60:14-50
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:59:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:61:14-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:58:14-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:62:14-65:30
+action#android.intent.action.MAIN
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:63:18-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:63:26-67
+category#android.intent.category.LAUNCHER
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:64:18-78
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:64:28-75
+activity#com.baidu.android.voicedemo.activity.ActivityOnline
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:67:10-76:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:71:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:70:14-34
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:69:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:68:14-80
+intent-filter#android.intent.action.MAIN+com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:72:14-75:30
+category#com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:74:18-105
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:74:28-102
+activity#com.baidu.android.voicedemo.activity.ActivityOffline
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:77:10-86:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:81:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:80:14-35
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:79:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:78:14-81
+activity#com.baidu.android.voicedemo.activity.ActivityNlu
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:87:10-96:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:91:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:90:14-41
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:89:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:88:14-77
+activity#com.baidu.android.voicedemo.activity.ActivityAllRecog
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:97:10-106:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:101:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:100:14-36
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:99:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:98:14-82
+activity#com.baidu.android.voicedemo.activity.ActivityWakeUp
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:107:10-116:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:111:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:110:14-33
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:109:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:108:14-80
+activity#com.baidu.android.voicedemo.activity.ActivityWakeUpRecog
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:117:10-126:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:121:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:120:14-35
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:119:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:118:14-85
+activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniRecog
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:127:10-136:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:131:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:130:14-35
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:129:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:128:14-88
+activity#com.baidu.android.voicedemo.activity.ActivityUiDialog
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:137:10-146:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:141:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:140:14-37
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:139:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:138:14-82
+activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniWakeUp
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:147:10-156:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:151:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:150:14-36
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:149:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:148:14-89
+activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniTest
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:157:10-166:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:161:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:160:14-40
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:159:14-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:158:14-87
+activity#com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:167:10-177:21
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:172:14-50
+	android:exported
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:171:14-38
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:169:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:170:14-57
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:168:14-88
+intent-filter#android.intent.category.DEFAULT+com.baidu.action.RECOGNIZE_SPEECH
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:173:14-176:30
+action#com.baidu.action.RECOGNIZE_SPEECH
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:174:18-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:174:26-74
+category#android.intent.category.DEFAULT
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:175:18-77
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:175:28-74
+activity#com.baidu.android.voicedemo.activity.setting.OnlineSetting
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:178:10-183:62
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:183:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:181:14-36
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:180:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:182:14-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:179:14-87
+activity#com.baidu.android.voicedemo.activity.setting.OfflineSetting
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:184:10-189:62
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:189:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:187:14-37
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:186:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:188:14-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:185:14-88
+activity#com.baidu.android.voicedemo.activity.setting.NluSetting
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:190:10-195:62
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:195:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:193:14-34
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:192:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:194:14-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:191:14-84
+activity#com.baidu.android.voicedemo.activity.setting.AllSetting
+ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:196:10-201:62
+	android:screenOrientation
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:201:14-50
+	android:label
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:199:14-36
+	android:configChanges
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:198:14-77
+	android:theme
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:200:14-70
+	android:name
+		ADDED from D:\Codings\AS_dev\Petrichor\app3\src\main\AndroidManifest.xml:197:14-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a870b98207692d85442292406507a35e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\59145aff2efcbd302080f1e7e8e6f78f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7f40633087df8a03e07c5df4e1a63419\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\74435e07f1d55337e12ade57171d43f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b734b551eb0e3e52d2b36a5e7fba258a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\113194a587bf9f5da798cbebbdd13a86\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a6592d47c0d6e1c2f814e4dd5acaab64\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\481cb991626c8f8bb256ffeb06d7e080\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\81a23fd3e9fad96a025ae1c5e91c9b6b\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\msi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\56a221cf09266676c6539a426a8bd313\AndroidManifest.xml:26:13-58

@@ -1,0 +1,134 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="yunmao.com.petrichor">
+    <!-- 检测网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 缓存资源优先存入SDcard -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <!-- 允许应用程序联网，以便向我们的服务器端发送数据 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--相机-->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+
+
+    <application
+        android:name=".BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight">
+
+        <meta-data android:name="com.baidu.speech.APP_ID"
+            android:value="000" />
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="000" />
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value=" 000" />
+        <service android:name="com.baidu.speech.VoiceRecognitionService" android:exported="false" />
+
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+
+        </activity>
+        <activity
+            android:name=".ui.activity.testActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+
+        </activity>
+
+        <activity
+            android:name=".ui.fragment.ListAllFileActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+
+        </activity>
+        <activity
+            android:name=".ui.activity.SplashActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.fragment.ViewFile"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+
+        </activity>
+
+        <activity
+            android:name=".ui.activity.BookDetailActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:theme="@style/AppTheme.DayNight.NoActionBar.BookDetail"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".ui.activity.BookReviewsActivity"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".ui.activity.CameratoActivity"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+
+        <activity
+            android:name=".ui.activity.CategoryDetailActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".ui.activity.WebViewActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".ui.activity.CaptureActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.DayNight.NoActionBar.Fullscreen"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".ui.activity.TakePhoteActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:screenOrientation="nosensor"
+            android:theme="@style/AppTheme.DayNight.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".ui.activity.ShowCropperedActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:screenOrientation="nosensor"
+        android:theme="@style/AppTheme.DayNight.NoActionBar"/>
+        <activity
+            android:name=".ui.activity.SearchResultActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:screenOrientation="nosensor"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"/>
+        <activity
+            android:name=".ui.activity.NotesActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:screenOrientation="nosensor"
+            android:theme="@style/AppTheme.DayNight.NoActionBar"/>
+    </application>
+</manifest>

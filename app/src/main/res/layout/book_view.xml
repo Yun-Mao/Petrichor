@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@+id/fab"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout">
+        <ImageView
+            android:id="@+id/backButton"
+            android:layout_width="67dp"
+            android:layout_height="66dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout"
+            app:srcCompat="@mipmap/back" />
+
+        <TextView
+            android:id="@+id/viewBookName"
+            android:layout_width="235dp"
+            android:layout_height="match_parent"
+            android:text="name"
+            android:textSize="25sp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/fab"
+        android:layout_below="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/bookContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="test" />
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/viewFab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@mipmap/like"
+        android:visibility="visible"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="19dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="11dp"
+        app:elevation="6dp"
+        app:pressedTranslationZ="12dp" />
+
+
+
+</RelativeLayout>
